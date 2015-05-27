@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="256" height="256" id="svg10914" version="1.1" inkscape:version="0.48.5 r10040" sodipodi:docname="color.svg">
+   <defs id="defs10916">
+      <radialGradient inkscape:collect="always" xlink:href="#linearGradient9879-4" id="radialGradient220922" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1,0,0,1.1280507,0,-15.592641)" cx="-170.8718" cy="127.7508" fx="-170.8718" fy="127.7508" r="12.49998" />
+      <linearGradient inkscape:collect="always" id="linearGradient9879-4">
+         <stop style="stop-color:#ffffff;stop-opacity:1" offset="0" id="stop9881-6" />
+         <stop style="stop-color:#e4e4e1;stop-opacity:1" offset="1" id="stop9883-2" />
+      </linearGradient>
+   </defs>
+   <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="1.4" inkscape:cx="107.98482" inkscape:cy="164.52529" inkscape:document-units="px" inkscape:current-layer="layer1" showgrid="false" inkscape:showpageshadow="false" inkscape:snap-page="true" inkscape:snap-bbox="true" inkscape:window-width="1366" inkscape:window-height="741" inkscape:window-x="0" inkscape:window-y="27" inkscape:window-maximized="1" inkscape:object-nodes="true" inkscape:bbox-nodes="true" inkscape:bbox-paths="true" inkscape:snap-midpoints="true" inkscape:snap-object-midpoints="true" inkscape:snap-global="true" />
+   <metadata id="metadata10919">
+      <rdf:RDF>
+         <cc:Work rdf:about="">
+            <dc:format>image/svg+xml</dc:format>
+            <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+            <dc:title />
+         </cc:Work>
+      </rdf:RDF>
+   </metadata>
+   <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(0,-796.36218)">
+      <path style="color:black;fill:#94db4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" d="M 73.169728,797.33011 C 441.32352,771.68637 165.37268,1266.9065 8.9689083,940.8204 -12.588902,890.57201 3.1648683,815.64462 73.169728,797.33011 z" id="path32622-5" inkscape:connector-curvature="0" sodipodi:nodetypes="ccc" />
+      <g id="g7858" transform="translate(11.616754,3.723768e-6)">
+         <path transform="translate(33.045654,820.89522)" d="m 73.741135,103.46696 c 0,20.0841 -16.281385,36.36549 -36.36549,36.36549 -20.084106,0 -36.3654903,-16.28139 -36.3654903,-36.36549 0,-20.084108 16.2813843,-36.365493 36.3654903,-36.365493 20.084105,0 36.36549,16.281385 36.36549,36.365493 z" sodipodi:ry="36.36549" sodipodi:rx="36.36549" sodipodi:cy="103.46696" sodipodi:cx="37.375645" id="path7852" style="color:black;fill:#cdeeac;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.03200005999999966;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" sodipodi:type="arc" />
+         <path sodipodi:type="arc" style="color:black;fill:white;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.03200006;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="path7854" sodipodi:cx="37.375645" sodipodi:cy="103.46696" sodipodi:rx="36.36549" sodipodi:ry="36.36549" d="m 73.741135,103.46696 c 0,20.0841 -16.281385,36.36549 -36.36549,36.36549 -20.084106,0 -36.3654903,-16.28139 -36.3654903,-36.36549 0,-20.084108 16.2813843,-36.365493 36.3654903,-36.365493 20.084105,0 36.36549,16.281385 36.36549,36.365493 z" transform="translate(79.007595,820.89522)" />
+         <path sodipodi:type="arc" style="color:black;fill:#cdeeac;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.03200005999999966;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="path7856" sodipodi:cx="37.375645" sodipodi:cy="103.46696" sodipodi:rx="36.36549" sodipodi:ry="36.36549" d="m 73.741135,103.46696 c 0,20.0841 -16.281385,36.36549 -36.36549,36.36549 -20.084106,0 -36.3654903,-16.28139 -36.3654903,-36.36549 0,-20.084108 16.2813843,-36.365493 36.3654903,-36.365493 20.084105,0 36.36549,16.281385 36.36549,36.365493 z" transform="translate(127.99999,820.89522)" />
+      </g>
+   </g>
+</svg>
