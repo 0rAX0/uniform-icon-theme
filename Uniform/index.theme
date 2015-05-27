@@ -1,0 +1,86 @@
+[Icon Theme]
+Name=Uniform
+Comment=A non-uniform yet consistent icon theme.
+Inherits=hicolor
+
+# Directory list
+Directories=scalable/actions,scalable/apps,scalable/categories,scalable/devices,scalable/emblems,scalable/emotes,scalable/mimetypes,scalable/places,scalable/status
+
+# Actions
+
+[scalable/actions]
+Context=Actions
+Size=16
+MinSize=16
+MaxSize=256
+Type=scalable
+
+# Applications
+
+[scalable/apps]
+Context=Applications
+MinSize=97
+MaxSize=512
+Type=scalable
+
+# Categories
+
+[scalable/categories]
+Context=Categories
+Size=16
+MinSize=16
+MaxSize=256
+Type=scalable
+
+# Devices
+
+[scalable/devices]
+Context=Devices
+Size=16
+MinSize=16
+MaxSize=256
+Type=scalable
+
+# Emblems
+
+[scalable/emblems]
+Context=Emblems
+Size=16
+MinSize=16
+MaxSize=256
+Type=scalable
+
+# Emotes
+
+[scalable/emotes]
+Context=Emotes
+Size=16
+MinSize=16
+MaxSize=256
+Type=scalable
+
+# MimeTypes
+
+[scalable/mimetypes]
+Context=MimeTypes
+Size=16
+MinSize=16
+MaxSize=256
+Type=scalable
+
+# Places
+
+[scalable/places]
+Context=Places
+MinSize=16
+MaxSize=256
+Type=scalable
+
+# Status
+
+[scalable/status]
+Context=Status
+Size=16
+MinSize=16
+MaxSize=256
+Type=scalable
